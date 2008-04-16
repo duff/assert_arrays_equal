@@ -67,7 +67,6 @@ method test_relationships in group_test.rb at line 11
 Author: Duff OMelia
 Contact: dj@omelia.org
 License: MIT
-Home: http://terralien.com/svn/projects/plugins/assert_arrays_equal/
 
 
 Copyright (c) 2007 Duff OMelia, released under the MIT license
